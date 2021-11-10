@@ -7,4 +7,4 @@ Bonjour 👋, je suis Alexandre, plus connu sous le pseudonyme de KiWindows, j'a
 # Mes projets
 
 Vous pouvez voir l'ensemble de mes projets publics dans la [section Repositories](https://github.com/KiWindows?tab=repositories) de ce présent Github. Passez-y jeter un coup d'oeil ! 😀
-Je souhaite également vous mettre au courant que je suis davantage actif sur mon [Gitea personnel](https://git.kiwindows.fr) notamment en ce qui est matière de développement. Ce Github me sers davantage à de vitrine publique.
+Je souhaite également vous mettre au courant que je suis davantage actif sur mon [Gitea personnel](https://git.kiwindows.fr/KiWindows) notamment en ce qui est matière de développement. Ce Github me sers davantage à de vitrine publique.
