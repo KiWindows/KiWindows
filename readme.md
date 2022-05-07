@@ -1,6 +1,6 @@
 # Introduction
 
-Bonjour 👋, je suis Alexandre, plus connu sous le pseudonyme de KiWindows, j'ai 21 ans et je suis un fan de Microsoft, d'AMD, de voitures sportives et de grand tourisme des années fin 70 à milieu 90 (françaises comme japonaises) et de Touhou.
+Bonjour 👋, je suis Alexandre, plus connu sous le pseudonyme de KiWindows, j'ai 22 ans et je suis un fan de Microsoft, d'AMD, de voitures sportives et de grand tourisme des années fin 70 à milieu 90 (françaises comme japonaises), de Touhou et de Nichijou.
 
 👨‍💻 J'adore maintenir mon infrastructure et mes projets, quand j'en ai le temps et surtout la motivation. En plus de cela, j'apprécie grandement la japanimation, les mangas, les jeux vidéo mais je trouve également un grand intérêt dans la mécanique automobile et militaire (j'aime beaucoup les tanks).
 
